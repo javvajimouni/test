@@ -1,1 +1,3 @@
 this is text file
+write a new code here
+Another line added
